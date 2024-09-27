@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好 ✨ Hello ✨ Здравствуйте ✨ Bonjour ✨ こんにちは ✨ 안녕하세요
 
 <!--
 **pzyyll/pzyyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Wooooooooooooow~
