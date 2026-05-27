@@ -1,5 +1,3 @@
-## 你好 ✨ Hello ✨ Здравствуйте ✨ Bonjour ✨ こんにちは ✨ 안녕하세요
-
 <!--
 **pzyyll/pzyyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Wooooooooooooow~
+# 嘿 ✨ Hey, I'm ZHILI CAI 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Wooooooooooooooooooooooooow~)](https://git.io/typing-svg)
